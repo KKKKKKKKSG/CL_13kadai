@@ -1,0 +1,42 @@
+img {
+  position: absolute;
+}
+
+.bt {
+  width:60px;
+  transition: all 1s;
+}
+
+#backimg0 {
+  left:0;
+  top:0;
+}
+
+#backimg1 {
+  left:0;
+  top:0;
+}
+
+#bt0 {
+  left:800px;
+  top:350px;
+}
+
+#bt1 {
+  left:270px;
+  top:420px;
+}
+
+#bt2 {
+  left:380px;
+  top:450px;
+}
+
+#message {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  background: rgba(255,255,255,0.5);
+  padding: 5px;
+  font-weight: bold;
+}
